@@ -14,11 +14,11 @@ Access Settings
 # Create an Integration Token here:
 # https://www.notion.so/my-integrations
 # And invite the Integration app to the collection you want it to access
-client = Client(auth=">>ADD SECRET HERE<<")
+client = Client(auth="ntn_G21668264228DF7e306sLiAvPRXlS9ku0K4ouhr7Jfz37P")
 # TODO:
 # Find the database id by viewing the collection in your browser, and copying it from the URL:
 # https://www.notion.so/my_workspace/COPY_THIS_DATABASE_ID?v=another_string
-database_id = ">>ADD DATABASE ID HERE<<"
+database_id = "20b0812725b6814b9982fa89d3909a61"
 
 """
 De-Dupe Options
